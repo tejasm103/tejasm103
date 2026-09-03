@@ -1,0 +1,11 @@
+print("enter the boy name ")
+n=input()
+boy_age=int(input("boy age :\n"))
+print("enter the girl name ")
+m=input()
+girl_age=int(input("girl age :\n"))
+print(n)
+print(m)
+diff=boy_age-girl_age
+print(diff)
+print(f"{n} loves {m} age difference is {diff}")
