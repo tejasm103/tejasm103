@@ -38,3 +38,4 @@ print(("t"in s) and ("a"in s2 ))
 print(("t"in s) or ("h"in s2 ))
 print(not("t"in s))
 #bitwise operators
+print("-------------------")
